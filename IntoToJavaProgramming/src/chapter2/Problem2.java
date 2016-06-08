@@ -21,7 +21,7 @@ public class Problem2 {
 		Scanner r_in = new Scanner(System.in);
 		System.out.print("Enter the radius of a cylinder: ");
 		double radius = r_in.nextDouble();
-			
+		
 		//Scanner for length
 		Scanner l_in = new Scanner(System.in);
 		System.out.print("Enter the length of a cylinder: ");
