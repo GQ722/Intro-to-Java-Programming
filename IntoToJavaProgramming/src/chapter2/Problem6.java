@@ -34,5 +34,4 @@ public class Problem6 {
 		
 		System.out.println("The sum of digits is " + sum);
 	}
-
 }
