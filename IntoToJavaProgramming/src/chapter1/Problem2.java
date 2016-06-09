@@ -5,7 +5,7 @@
 package chapter1;
 
 //creating class having the same name as the program name
-public class problem2 {
+public class Problem2 {
 
 	//main class
 	public static void main(String[] args) {
